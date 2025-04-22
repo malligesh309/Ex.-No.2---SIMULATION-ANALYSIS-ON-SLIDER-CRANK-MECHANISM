@@ -34,6 +34,7 @@
 ###  2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
+![image](https://github.com/user-attachments/assets/ece6d524-0764-4636-995c-9d1fc7256bc0)
 
 
 
